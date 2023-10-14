@@ -115,7 +115,7 @@ $produk2->setDiskon(50);
 echo $produk2->getHarga();
 echo "<hr>";
 
-$produk1->setPenulis("Aufaa");
+$produk1->setPenulis("WildanF");
 echo $produk1->getPenulis();
 
 ?>
